@@ -1,7 +1,7 @@
 import random
 
 # Pick a word at random
-word_list = ["rings","heart","brandy","nails","pearl", "stars","owala","funny","nicer","sweet","beach"]
+word_list = ["rings","heart","brandy","nails","pearl", "stars","owala","funny","nicer","sweet","beach","april","helix","paris","girls","loves","adore","india","skies","crepe","honey","pinky","moons","ocean","races"]
 hidden_word = random.choice(word_list)
 
 # Repeat for 6 guesses
